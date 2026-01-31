@@ -1,0 +1,14 @@
+## Interface: 120000,120001
+## Title: Hide Blizzard Raid Manager
+## Notes: Toggle Compact Party/Raid Manager
+## Author: uuid85634
+## Version: 1.0
+## SavedVariables: HideBlizzardRaidManagerDB
+##Localization supported: enUS (default), zhCN, zhTW
+
+Locales/enUS.lua
+Locales/zhCN.lua
+Locales/zhTW.lua
+
+Core.lua
+Slash.lua
